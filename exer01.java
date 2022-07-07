@@ -8,7 +8,7 @@ public class exer01 {
       int h = 5;
       int b = 3;
       int B = 7;
-      double Area = (h * (b + B))/2;
+      final int Area = (h * (b + B))/2;
       System.out.println("A área do trapézio é " + Area);}
    
 }
