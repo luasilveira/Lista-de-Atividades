@@ -4,7 +4,7 @@ public class exer02 {
      * @return 
      */
     public static void main(final String[] args) {
-       // Área do trapézio
+       // Área do trapézio valor arredondado e exato
        double h = 7.2;
        int b = 3;
        double B = 8.6;
