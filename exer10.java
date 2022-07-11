@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class exer010 {
+public class exer10 {
     public static void main(String[] args) {
         String resp = "";
             float peso = 0; 
